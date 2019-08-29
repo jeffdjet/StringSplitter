@@ -1,1 +1,2 @@
-# StringSplitter
+# to execute
+mvn clean test
